@@ -2,7 +2,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PraSempreWeb)](https://github.com/PraSempreWeb)
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/prasempreweb/Nivelamento-sobre-Git-Github)
 <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/PraSempreWeb/Nivelamento-sobre-Git-Github" />
