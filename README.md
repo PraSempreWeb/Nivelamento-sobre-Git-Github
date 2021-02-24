@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/prasempreweb/Nivelamento-sobre-Git-Github)
+
 # Java Completo Programação Orientada a Objetos + Projetos  :coffee:    
 ## Nivelamento sobre Git e Github    :octocat:  
 
