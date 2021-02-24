@@ -24,9 +24,10 @@
 :white_check_mark: Importante entender - a sequência de commits deve ser respeitada  
 :white_check_mark: Kit de primeiros socorros  
 
+<img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Cristiano&message=Bonifácio&color=blue&style=for-the-badge&logo="/>
 
-PROFESSOR: ```DR. Nélio Alces```  
+```DR. Nélio Alces```  
 
 [UDEMY](https://www.udemy.com/)  
 
