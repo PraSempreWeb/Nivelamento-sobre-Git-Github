@@ -8,8 +8,9 @@
 </h4>
 
 
-# Java Completo Programação Orientada a Objetos + Projetos  :coffee:    
-## Nivelamento sobre Git e Github    :octocat:  
+# Nivelamento sobre Git e Github    :octocat:  
+## Java Completo Programação Orientada a Objetos + Projetos  :coffee:    
+
 
 
 :white_check_mark: Visão geral do capítulo Git e Github  
