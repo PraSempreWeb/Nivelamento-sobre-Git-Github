@@ -8,8 +8,8 @@
 </h4>
 
 
-# Nivelamento sobre Git e Github    :octocat:  
-## Java Completo Programação Orientada a Objetos + Projetos  :coffee:    
+# Nivelamento sobre Git e Github    :octocat:
+## Java Completo Programação Orientada a Objetos + Projetos  :coffee: 
 
 
 
