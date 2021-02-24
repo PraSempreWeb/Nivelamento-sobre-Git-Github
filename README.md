@@ -1,7 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasempreweb/)](https://www.linkedin.com/in/prasempreweb/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasempreweb/)](https://www.linkedin.com/in/prasempreweb/)  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PraSempreWeb)](https://github.com/PraSempreWeb)
-
-
 <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/PraSempreWeb/Nivelamento-sobre-Git-Github" />
