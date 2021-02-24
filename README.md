@@ -25,7 +25,7 @@
 ## Kite de Primeiros Socorros
 ![06](https://user-images.githubusercontent.com/77255300/109077472-f9c02780-76da-11eb-8fad-648ed869f0b0.PNG)  
 
-[<img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>](https://github.com/PraSempreWeb)
+[<img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>](https://github.com/PraSempreWeb)  
 <img src="https://img.shields.io/static/v1?label=Aluno&message=Cristiano Bonifácio&color=blue&style=for-the-badge&logo="/>  
 
 [![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)](https://www.udemy.com/course/java-curso-completo/)
