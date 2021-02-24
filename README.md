@@ -25,7 +25,7 @@
 :white_check_mark: Kit de primeiros socorros  
 
 <img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>
-<img src="https://img.shields.io/static/v1?label=Cristiano&message=Bonifácio&color=blue&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=Aluno&message=Cristiano Bonifácio&color=blue&style=for-the-badge&logo="/>
 
 ```DR. Nélio Alces```  
 
