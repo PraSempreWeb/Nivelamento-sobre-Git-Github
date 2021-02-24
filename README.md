@@ -1,4 +1,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/prasempreweb/Nivelamento-sobre-Git-Github)
+<img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/PraSempreWeb/Nivelamento-sobre-Git-Github" />
+<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/PraSempreWeb/Nivelamento-sobre-Git-Github" />
+
+<h4 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
+
 
 # Java Completo Programação Orientada a Objetos + Projetos  :coffee:    
 ## Nivelamento sobre Git e Github    :octocat:  
