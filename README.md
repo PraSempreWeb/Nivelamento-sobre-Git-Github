@@ -4,8 +4,6 @@
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 
-![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)
-
 
 # Nivelamento sobre Git e Github    :octocat:
 ## Curso Java Completo Programação Orientada a Objetos + Projetos :coffee: 
@@ -29,7 +27,9 @@
 
 
 <img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>
-<img src="https://img.shields.io/static/v1?label=Aluno&message=Cristiano Bonifácio&color=blue&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=Aluno&message=Cristiano Bonifácio&color=blue&style=for-the-badge&logo="/>  
+
+![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)
 
 
 
