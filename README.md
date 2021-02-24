@@ -27,12 +27,10 @@
 
 
 ## O que é Git e Github   
-----  
-
-
 ![01](https://user-images.githubusercontent.com/77255300/109077256-99c98100-76da-11eb-8ee3-a18e2cd256ea.PNG)
 ----  
 
+## Criando um novo Projeto  
 ![02](https://user-images.githubusercontent.com/77255300/109077339-b82f7c80-76da-11eb-9e83-78b79c1c8328.PNG)
 ---  
 ![03](https://user-images.githubusercontent.com/77255300/109077380-cc737980-76da-11eb-9824-2806a6df7879.PNG)
