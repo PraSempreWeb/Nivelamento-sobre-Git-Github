@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/static/v1?label=Professor&message=Nélio Alces&color=blue&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Aluno&message=Cristiano Bonifácio&color=blue&style=for-the-badge&logo="/>  
 
-[![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)](https://www.udemy.com/)
+[![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)](https://www.udemy.com/course/java-curso-completo/)
+
 
 
 
