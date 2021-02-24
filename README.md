@@ -4,9 +4,7 @@
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 
-<h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
+![udemy](https://user-images.githubusercontent.com/77255300/109080782-eb283f00-76df-11eb-87d9-a85f91c53296.PNG)
 
 
 # Nivelamento sobre Git e Github    :octocat:
