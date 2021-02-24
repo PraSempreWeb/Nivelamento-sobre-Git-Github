@@ -13,26 +13,13 @@
 ## Curso Java Completo Programação Orientada a Objetos + Projetos :coffee: 
 
 
-
-:white_check_mark: Visão geral do capítulo Git e Github  
-:white_check_mark: Material de apoio do capítulo  
-
-
-:white_check_mark: Instalação do Git no Windows  
-:white_check_mark: Demo - criando um novo projeto  
-:white_check_mark: Arquivo .gitignore  
-:white_check_mark: Demo - trabalhando com um projeto existente  
-:white_check_mark: Importante entender - a sequência de commits deve ser respeitada  
-:white_check_mark: Kit de primeiros socorros  
-
-
 ## O que é Git e Github
 ![01](https://user-images.githubusercontent.com/77255300/109077256-99c98100-76da-11eb-8ee3-a18e2cd256ea.PNG)
 
 ![02](https://user-images.githubusercontent.com/77255300/109077339-b82f7c80-76da-11eb-9e83-78b79c1c8328.PNG)
 
 ## Criando um novo Projeto
-![03](https://user-images.githubusercontent.com/77255300/109077380-cc737980-76da-11eb-9824-2806a6df7879.PNG)
+![03](https://user-images.githubusercontent.com/77255300/109079810-3ccfca00-76de-11eb-8bce-e6185217d5e1.PNG)
 
 ## Trabalhando com um Projeto existente
 ![04](https://user-images.githubusercontent.com/77255300/109077433-e4e39400-76da-11eb-9b64-248c102508a9.PNG)
