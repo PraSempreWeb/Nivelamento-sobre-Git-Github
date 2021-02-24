@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)  
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/prasempreweb/Nivelamento-sobre-Git-Github)
 <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/PraSempreWeb/Nivelamento-sobre-Git-Github" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/PraSempreWeb/Nivelamento-sobre-Git-Github" />
