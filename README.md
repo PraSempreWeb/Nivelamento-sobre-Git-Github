@@ -39,7 +39,7 @@
 
 <a id="ancora6"></a>
 ## Kite de Primeiros Socorros
-![06](https://user-images.githubusercontent.com/77255300/109077472-f9c02780-76da-11eb-8fad-648ed869f0b0.PNG)  
+![06](https://user-images.githubusercontent.com/77255300/109077472-f9c02780-76da-11eb-8fad-648ed869f0b0.PNG)
 
 [Topo](#ancora7)
 
