@@ -12,7 +12,7 @@
 [O que é Git e Github](#ancora1)  
 [Criando um novo Projeto](#ancora2)  
 [Trabalhando com um Projeto existente](#ancora3)  
-[ Kite de Primeiros Socorros](#ancora4)  
+[ Kite de Primeiros Socorros](#ancora6)  
 
 
 
